@@ -1,0 +1,15 @@
+C:\Users\tverd\Desktop\Знакомство с языками программирования\Lesson 2\task 3\bin\Debug\net7.0\task 3.exe
+C:\Users\tverd\Desktop\Знакомство с языками программирования\Lesson 2\task 3\bin\Debug\net7.0\task 3.deps.json
+C:\Users\tverd\Desktop\Знакомство с языками программирования\Lesson 2\task 3\bin\Debug\net7.0\task 3.runtimeconfig.json
+C:\Users\tverd\Desktop\Знакомство с языками программирования\Lesson 2\task 3\bin\Debug\net7.0\task 3.dll
+C:\Users\tverd\Desktop\Знакомство с языками программирования\Lesson 2\task 3\bin\Debug\net7.0\task 3.pdb
+C:\Users\tverd\Desktop\Знакомство с языками программирования\Lesson 2\task 3\obj\Debug\net7.0\task 3.csproj.AssemblyReference.cache
+C:\Users\tverd\Desktop\Знакомство с языками программирования\Lesson 2\task 3\obj\Debug\net7.0\task 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tverd\Desktop\Знакомство с языками программирования\Lesson 2\task 3\obj\Debug\net7.0\task 3.AssemblyInfoInputs.cache
+C:\Users\tverd\Desktop\Знакомство с языками программирования\Lesson 2\task 3\obj\Debug\net7.0\task 3.AssemblyInfo.cs
+C:\Users\tverd\Desktop\Знакомство с языками программирования\Lesson 2\task 3\obj\Debug\net7.0\task 3.csproj.CoreCompileInputs.cache
+C:\Users\tverd\Desktop\Знакомство с языками программирования\Lesson 2\task 3\obj\Debug\net7.0\task 3.dll
+C:\Users\tverd\Desktop\Знакомство с языками программирования\Lesson 2\task 3\obj\Debug\net7.0\refint\task 3.dll
+C:\Users\tverd\Desktop\Знакомство с языками программирования\Lesson 2\task 3\obj\Debug\net7.0\task 3.pdb
+C:\Users\tverd\Desktop\Знакомство с языками программирования\Lesson 2\task 3\obj\Debug\net7.0\task 3.genruntimeconfig.cache
+C:\Users\tverd\Desktop\Знакомство с языками программирования\Lesson 2\task 3\obj\Debug\net7.0\ref\task 3.dll
